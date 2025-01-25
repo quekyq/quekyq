@@ -1,4 +1,11 @@
-## Hi there 👋
+<img align='left' src="https://github.com/user-attachments/assets/df500b31-1c3c-483e-a280-e00c5955d6f6" style="width: 180px; ">
+
+### Hello! ٩(⊙‿⊙)۶ 
+
+🐛 Yu Qing (Perrie), from Singapore 🇸🇬  
+🐝 CS @ University of Pennsylvania (Graduating in May 2025)  
+🐜 Languages & Tools: C++, Java, C, Python, PostgreSQL, React.js, Vite, Javascript, HTML, CSS  
+🥕 View my coding and art projects at my [Personal Site](https://quekyq.github.io/)  
 
 <!--
 **quekyq/quekyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
