@@ -3,9 +3,8 @@
 ### Hello! ٩(⊙‿⊙)۶ 
 
 🐛 Yu Qing (Perrie), from Singapore 🇸🇬  
-🐝 CS @ University of Pennsylvania (Graduating in May 2025)  
-🐜 Languages & Tools: C++, Java, C, Python, PostgreSQL, React.js, Vite, Javascript, HTML, CSS  
-🥕 View my coding and art projects at my [Personal Site](https://quekyq.github.io/)  
+🐝 Master's in CS @ University of Pennsylvania  
+🐜 View my coding and art projects at my [Personal Site](https://quekyq.github.io/)  
 
 <!--
 **quekyq/quekyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
