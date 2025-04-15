@@ -4,7 +4,7 @@
 
 🐛 I'm Yu Qing (Perrie), from Singapore 🇸🇬  
 🐝 Currently pursuing my Master's in CS @ University of Pennsylvania  
-🐞 I'm interested in art & tech  
+🐞 I like art & tech  
 🐜 View my coding and art projects at my [Personal Site](https://quekyq.github.io/)  
 
 <!--
